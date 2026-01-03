@@ -613,7 +613,7 @@
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-facebook"></i></a>
         </div>
-        <div class="credit"><p>Created by <a href="">NamaAnda</a>. | © 2024.</p></div>
+        <div class="credit"><p>Created by <a href="">Unggul Menawan</a>. | © 2026.</p></div>
     </footer>
 
     <script>
