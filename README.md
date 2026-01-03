@@ -706,7 +706,7 @@
             message += `\n\nSaya sudah melakukan pembayaran (via QRIS/Transfer). Mohon diproses.`;
 
             // GANTI NOMOR DI BAWAH INI DENGAN NOMOR WA ANDA
-            const phoneNumber = "6281234567890"; 
+            const phoneNumber = "+6285757718645"; 
             
             const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
             window.open(url, '_blank');
